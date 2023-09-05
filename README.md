@@ -28,3 +28,7 @@ O desafio consiste em criar uma aplicação simples em Go que seja empacotada em
    ```bash
    docker run --rm <nome-da-imagem>
    ```
+
+### Docker Hub
+
+- [Image Repository](https://hub.docker.com/repository/docker/eduardylopes/desafio-go-fullcycle/general)
